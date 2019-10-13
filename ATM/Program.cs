@@ -12,7 +12,6 @@ namespace ATM
         static int answer3 = 0;
         static int answer4 = 0;
         static int answer5 = 0;
-        static int answer6 = 0;
         static int billsLimit = 1000; // bills limit into ATM
         static int billsForNow = 500; // how many bills in ATM at the moment 
         static int total = 0; // money supply inside ATM
