@@ -1,5 +1,5 @@
 # TestTaskCadwise
-C# projects of Cadwise test task 
+C# projects of Cadwise test tasks.
 
 There is my finished test tasks for Cadwise compamy.
 
