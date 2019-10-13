@@ -1,0 +1,11 @@
+/home/lex/C#Projects/ATM/bin/Debug/netcoreapp2.2/ATM.deps.json
+/home/lex/C#Projects/ATM/bin/Debug/netcoreapp2.2/ATM.runtimeconfig.json
+/home/lex/C#Projects/ATM/bin/Debug/netcoreapp2.2/ATM.runtimeconfig.dev.json
+/home/lex/C#Projects/ATM/bin/Debug/netcoreapp2.2/ATM.dll
+/home/lex/C#Projects/ATM/bin/Debug/netcoreapp2.2/ATM.pdb
+/home/lex/C#Projects/ATM/obj/Debug/netcoreapp2.2/ATM.csprojAssemblyReference.cache
+/home/lex/C#Projects/ATM/obj/Debug/netcoreapp2.2/ATM.csproj.CoreCompileInputs.cache
+/home/lex/C#Projects/ATM/obj/Debug/netcoreapp2.2/ATM.AssemblyInfoInputs.cache
+/home/lex/C#Projects/ATM/obj/Debug/netcoreapp2.2/ATM.AssemblyInfo.cs
+/home/lex/C#Projects/ATM/obj/Debug/netcoreapp2.2/ATM.dll
+/home/lex/C#Projects/ATM/obj/Debug/netcoreapp2.2/ATM.pdb

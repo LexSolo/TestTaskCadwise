@@ -1,0 +1,11 @@
+/home/lex/C#Projects/FileProcessing/obj/Debug/netcoreapp2.2/FileProcessing.csprojAssemblyReference.cache
+/home/lex/C#Projects/FileProcessing/obj/Debug/netcoreapp2.2/FileProcessing.csproj.CoreCompileInputs.cache
+/home/lex/C#Projects/FileProcessing/obj/Debug/netcoreapp2.2/FileProcessing.AssemblyInfoInputs.cache
+/home/lex/C#Projects/FileProcessing/obj/Debug/netcoreapp2.2/FileProcessing.AssemblyInfo.cs
+/home/lex/C#Projects/FileProcessing/bin/Debug/netcoreapp2.2/FileProcessing.deps.json
+/home/lex/C#Projects/FileProcessing/bin/Debug/netcoreapp2.2/FileProcessing.runtimeconfig.json
+/home/lex/C#Projects/FileProcessing/bin/Debug/netcoreapp2.2/FileProcessing.runtimeconfig.dev.json
+/home/lex/C#Projects/FileProcessing/bin/Debug/netcoreapp2.2/FileProcessing.dll
+/home/lex/C#Projects/FileProcessing/bin/Debug/netcoreapp2.2/FileProcessing.pdb
+/home/lex/C#Projects/FileProcessing/obj/Debug/netcoreapp2.2/FileProcessing.dll
+/home/lex/C#Projects/FileProcessing/obj/Debug/netcoreapp2.2/FileProcessing.pdb
