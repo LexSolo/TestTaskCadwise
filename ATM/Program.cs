@@ -121,6 +121,8 @@ namespace ATM
             }
         } //Main()
 
+        /*------------------------------------------------------------------------------------------------------------*/
+        
         // method for putting money, calculating internal space for putting with printing warnings while necesssary
         static void putMoney()
         {
@@ -212,6 +214,8 @@ namespace ATM
             }
         } // putMoney()
 
+        /*------------------------------------------------------------------------------------------------------------*/
+        
         // method for withdrawing money, calculating internal space for withdrawing with printing warnings while necesssary
         static void withdrawMoney()
         {
